@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-09-30T09:20:57.253Z",
+  "updated_at": "2026-10-01T09:48:00.613Z",
   "channel": "Idolvpn",
   "source": "https://t.me/s/Idolvpn",
   "posts": [
     {
-      "id": "27854",
-      "date": "2026-09-29T22:39:25+00:00",
-      "link": "https://t.me/IDOLvpn/27854",
-      "text": "آپدیت وی پی ان:هفته پیش نسخه ویندوز رایگان \nReleases · KNG7-P/Se7en-Pro\nhttps://github.com/KNG7-P/Se7en-Pro/releases\n🚀 معرفی ابزار قدرتمند Se7en Pro برای ویندوز\nیک کلاینت نسل جدید، اوپن‌سورس و فوق‌العاده سریع برای دور زدن تحریم‌ها با رابط کاربری مدرن (Flutter) و هسته پردازشی قدرتمند (.NET 8). این برنامه چندین پروتکل پیشرفته را در یک پنل یکپارچه جمع کرده است!\n🌐 پروتکل‌های پشتیبانی شده:\n🔹 Aether Core پشتیبانی از MASQUE، WireGuard Warp و Gool (Warp-on-Warp)\n SHARD:فرگمنتیشن TLS برای دور زدن DPI‌های سخت\nSing-box & Xray پشتیبانی کامل از VLESS، VMess، Trojan و Shadowsocks Psiphon & Tor:** با قابلیت CDN Fronting، obfs4، Snowflake و WebTunnel\n🔗 اتصالات ترکیبی (Multi-Hop): امکان زنجیر کردن پروتکل‌ها (مثلاً سایفون روی Warp یا تور روی V2Ray)\n1️⃣ برای سایفون: فایل Se7enPro/Services/EmbeddedValues.cs را در سورس باز کنید و مقادیر SponsorId و PropagationChannelId خود را جایگزین کنید.\n2️⃣ برای کش سرور:می‌توانید فایل server_entries.txt را در پوشه Resources قرار دهید تا سرورها آفلاین کش شوند.\n3️⃣ برای Xray/Sing-box: کانفیگ‌های VLESS و... را مستقیماً از طریق رابط کاربری وارد کنید.\nسرعت عالی عالی \nمتصل رو مخابرات همراه اول و ایرانسل آسیا تک\n🔗 لینک دانلود و مشاهده سورس:\n👇👇👇\nhttps://github.com/KNG7-P/Se7en-Pro/releases\n#Se7enPro #VPN #فیلترشکن #ویندوز #Xray #V2Ray #Warp #Psiphon #Tor #امنیت_شبکه #دور_زدن_تحریم #IDOLvpn\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "27916",
+      "date": "2026-10-01T07:59:49+00:00",
+      "link": "https://t.me/IDOLvpn/27916",
+      "text": "🔴 شرکت Surfshark که خدمات VPN ارائه میده، اخیرا اعلام کرده که در نتیجه یک خطای انسانی، یک سرور تست داخلی، به اشتباه طوری پیکربندی شده که از اینترنت قابل دسترس بوده و در نتیجه مورد نفوذ قرار گرفته.\nاین شرکت گفته که در نتیجه این نفوذ، هکرها به زیر ساخت داخلی یا اطلاعات حساس کاربران دسترسی پیدا نکردن اما یکسری باینری سیستمی در دسترس بوده که جزییاتی از این باینری ها هم اعلام نشده. \nهمچنین هکر به یک سرور جداگانه که برای بهینه‌سازی دسترسی به محتوا استفاده میشده، دسترسی پیدا کرده. این ماشین به‌عنوان یک پروکسی عمل میکرده و به هیچ داده حساسی مانند هویت کاربر، آدرس‌های IP، کلیدهای رمزنگاری یا ترافیک دسترسی نداشته.\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "27852",
-      "date": "2026-09-29T21:34:19+00:00",
-      "link": "https://t.me/IDOLvpn/27852",
-      "text": "🔥 استفاده از Claude Opus 5.5 بدون API Key و بدون محدودیت!\n، بدون اینکه نیاز به وارد کردن API Key داشته باشی و بدون درگیر شدن با محدودیت‌های معمول.\nآموزش از کانال یوتوب iranazad_free_iran\nلینک سایت: https://app.clickup.com/\n📌 #هوش_مصنوعی #Claude #AI #برنامه_نویسی #رایگان #ClickUp #ترفند #کدنویسی #IDOLvpn\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "27914",
+      "date": "2026-10-01T07:51:59+00:00",
+      "link": "https://t.me/IDOLvpn/27914",
+      "text": "این مدل هم دیروز ورژن جدیدش معرفی شده برای ساخت ویدیو های معرفی محصول خیلی خوبه، با InSpatio-World 1.5 می‌تونی یک عکس، چند عکس، تصویر پانوراما یا حتی ویدیو رو به یک دنیای 4 بعدی پویا و قابل کاوش تبدیل کنی و دوربین رو توش بچرخونی!\nتست آنلاین:\nworld.inspatio.com\nکد هاش:\ninspatio.github.io/inspatio-world-1.5\n#هوش_مصنوعی #ساخت_ویدیو #معرفی_محصول #پانوراما #تصویر_چهاربعدی #ابزار_هوشمند\n#InSpatio #InSpatioWorld #GenerativeAI #AIVideo #3DWorld #ProductShowcase #TechNews\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "27850",
-      "date": "2026-09-29T20:43:12+00:00",
-      "link": "https://t.me/IDOLvpn/27850",
-      "text": "🔗 مستندات و آموزش نصب با Unsloth:\nunsloth.ai/docs/models/decision-lay\n🧠 هوش مصنوعی تصمیم‌گیر روی رم ۴ گیگ! 🚀\nدنبال یک موتور هوشمند به صرفه \nبا مدل Laya Decision همه چیز را به صورت آفلاین و روی سیستم خودتان اجرا کنید! \n• 💻 کاملاً لوکال: روی CPU، مک، ویندوز و لینوکس بدون نیاز به اینترنت.\n• 🪶 فوق‌سبک: حجم فقط ۶۷۸ مگابایت و اجرا فقط با 4GB RAM\n• 🔒 حریم خصوصی ۱۰۰٪: هیچ داده‌ای از سیستم شما خارج نمی‌شود.\n• ⏱️ سرعت نور:پاسخگویی در ۳۳ میلی‌ثانیه (Real-time)!\n• 🆓 رایگان: جایگزین متن‌باز Jev بدون نیاز به پرداخت هزینه API.\n🛠 با Laya چی میشه ساخت؟\n1️⃣ ربات‌های هوشمند: ربات تلگرامی که پیام‌ها را می‌فهمد و به بخش درست (فروش/پشتیبانی) ارجاع می‌دهد.\n2️⃣ دسته‌بندی خودکار: فیلتر کردن اسپم، تشخیص لحن پیام‌ها یا دسته‌بندی هزاران ایمیل در کسری از ثانیه.\n3️⃣ مغز کمکی برای LLM: به عنوان یک \"Router\" عمل می‌کند تا درخواست‌های ساده را خودش جواب دهد و در هزینه‌های پردازش مدل‌های سنگین صرفه‌جویی کند.\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": true
-    },
-    {
-      "id": "27848",
-      "date": "2026-09-29T20:32:41+00:00",
-      "link": "https://t.me/IDOLvpn/27848",
-      "text": "📩 سرویس‌های ایمیل موقت\nاگر برای ثبت‌نام، دریافت کد تأیید یا دانلود فایل نمی‌خواهید ایمیل اصلی‌تان را وارد کنید، می‌توانید از سرویس‌های ایمیل موقت استفاده کنید.\n⚠️ هشدار مهم  \nاز ایمیل موقت برای حساب‌های بانکی، کاری، صرافی و حساب‌هایی که بعداً به بازیابی آن‌ها نیاز دارید استفاده نکنید.  \nبعضی از این سرویس‌ها صندوق عمومی دارند و پیام‌های آن‌ها خصوصی نیستند.\n🔹 سرویس‌های با ماندگاری بیشتر\n• Mail.tm  \nhttps://mail.tm  \n(تا زمان حذف صندوق)\n• YOPmail  \nhttps://yopmail.com  \n(۸ روز)\n• Tempr.email  \nhttps://tempr.email  \n(۳۰ روز)\n• Mailnesia  \nhttps://mailnesia.com  \n(چند روز تا حدود ۲ ماه)\n• Temp Postal  \nhttps://temppostal.com  \n(۲۴ ساعت، قابل تمدید)\n• ThrowAwayMail  \nhttps://www.throwawaymail.com  \n(حدود ۴۸ ساعت)\n• TempMailo  \nhttps://tempmailo.com  \n(حدود ۴۸ ساعت)\n• Temp-Mail.io  \nhttps://temp-mail.io  \n(۱ روز در نسخه رایگان)\n• txen.de  \nhttps://txen.de  \n(۳ روز)\n• TrashMail  \nhttps://trashmail.com  \n(تا ۳۰ روز)\n• Maildrop  \nhttps://maildrop.cc  \n(حدود ۲۴ ساعت)\n• DropMail  \nhttps://dropmail.me  \n(وابسته به Session)\n🔹 سرویس‌های شناخته‌شده و کوتاه‌مدت‌تر\n• 10 Minute Mail  \nhttps://10minutemail.com\n• Guerrilla Mail  \nhttps://www.guerrillamail.com\n• Temp-Mail  \nhttps://temp-mail.org\n• Mailinator  \nhttps://www.mailinator.com\n• EmailOnDeck  \nhttps://www.emailondeck.com\n• Mohmal  \nhttps://www.mohmal.com\n• Dispostable  \nhttps://www.dispostable.com\n• EmailFake  \nhttps://emailfake.com\n• Generator.email  \nhttps://generator.email\n• Tempail  \nhttps://tempail.com\n• TempMail.plus  \nhttps://tempmail.plus\n• Emailnator  \nhttps://www.emailnator.com\n• 1secmail  \nhttps://www.1secmail.com\n• MinuteInbox  \nhttps://www.minuteinbox.com\n• SecureTempMail  \nhttps://securetempmail.com\n• TemporaryEmail.dev  \nhttps://temporaryemail.dev\n﻿\n#ایمیل_موقت #ایمیل_یکبار_مصرف #ایمیل_فیک #TempMail #TemporaryEmail #DisposableEmail \n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "27913",
+      "date": "2026-10-01T07:49:50+00:00",
+      "link": "https://t.me/IDOLvpn/27913",
+      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a video",
       "hasPhoto": false
     },
     {
-      "id": "27846",
-      "date": "2026-09-29T17:47:58+00:00",
-      "link": "https://t.me/IDOLvpn/27846",
-      "text": "این سایتم باحاله ماهواره های روی فضای دور کره زمین رو نشون میده، نمیدونستم انقدر استارلینک از روی ایران رد می‌شن\nالبته اندازشون واقعی نیست شاید بگید چقدر دور زمین شلوغه، برای اینکه اندازه واقعی رو ببینید روی دکمه Real Size کلیک کنید:\nazmth.space\n#استارلینک #ماهره #سایت_جالب #تکنولوژی #سایت_کاربردی #IDOLvpn\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": true
+      "id": "27912",
+      "date": "2026-10-01T07:49:42+00:00",
+      "link": "https://t.me/IDOLvpn/27912",
+      "text": "آموزش ساخت این ترند‌ها\nویدیو اصلی و عکسی که می‌خواید جایگزین بشه رو داخل چت‌جی‌پی‌تی آپلود کنید. در قالب یک دستور بهش بگید که می‌خواید کاراکتر داخل ویدیو با عکس مشخص‌شده جایگزین بشه و بگید یک پرامپت دقیق برای این تغییر بهتون بده. پرامپت آماده‌شده رو کپی کنید.\nوارد سایت higgsfield.ai بشید و با اکانت گوگل ثبت‌نام کنید (با هر جیمیل امکان ساخت رایگان ویدیو دارید). وارد بخش Higgsfield Genjutsu بشید.\nویدیو مرجع و عکس‌های چهره‌های جدید رو آپلود کنید. گزینه Prompt رو روشن کرده و متنی که از چت‌جی‌پی‌تی گرفتید رو داخلش جای‌گذاری کنید. حالت ساخت رایگان (Use free gens) رو فعال کرده و دکمه Generate رو بزنید در حالت استفاده رایگان، ساخت ویدیو ممکنه بین نیم تا یک ساعت زمان ببره.\n#IDOLvpn #آیدیول_وی_پی_ان #آموزش_AI\n#پنل_رایگان #AI_Tools #Genjutsu #هوش_مصنوعی_رایگان\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
     },
     {
-      "id": "27844",
-      "date": "2026-09-29T17:31:53+00:00",
-      "link": "https://t.me/IDOLvpn/27844",
-      "text": "*کلاهبرداران با یک «کارت دعوت عروسی» گوشی شما را به بدافزار آلوده می‌کنند* \nپلیس فتا فراجا هشدار داد مجرمان سایبری با ارسال پیام‌هایی تحت عنوان «دعوت‌نامه عروسی» در پیام‌رسان‌ها، فایل نصبی با پسوند APK را برای کاربران ارسال می‌کنند و از آن‌ها می‌خواهند برای مشاهده نشانی تالار و زمان برگزاری جشن، برنامه را روی تلفن همراه خود نصب کنند.\nسرهنگ جواد مختار رضایی، معاون فرهنگی و اجتماعی پلیس فتا فراجا، با اشاره به سوءاستفاده مجرمان از احساسات و کنجکاوی کاربران تأکید کرد نصب این فایل‌ها تلفن همراه را به بدافزارهای جاسوسی آلوده می‌کند.\nاو از هموطنان خواست هرگز لینک‌ها و فایل‌های APK را که از سوی افراد ناشناس یا حتی مخاطبان آشنا ارسال می‌شود، باز یا نصب نکنند.\nاو همچنین توصیه کرد در صورت نصب اشتباه این فایل‌ها، افراد سریعا اینترنت گوشی خود را قطع کرده و برای دریافت راهنمایی با مرکز فوریت‌های سایبری پلیس فتا به شماره ۰۹۶۳۸۰ تماس بگیرند.\n#بدافزار #کلاهبرداری #پلیس_فتا #امنیت_سایبری #APK #IDOLvpn\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": true
-    },
-    {
-      "id": "27842",
-      "date": "2026-09-29T17:29:24+00:00",
-      "link": "https://t.me/IDOLvpn/27842",
+      "id": "27911",
+      "date": "2026-10-01T07:40:09+00:00",
+      "link": "https://t.me/IDOLvpn/27911",
       "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a photo",
       "hasPhoto": false
     },
     {
-      "id": "27841",
-      "date": "2026-09-29T17:29:22+00:00",
-      "link": "https://t.me/IDOLvpn/27841",
-      "text": "The most powerful Open AI model is available for free chat ✅\nSteps:\n1. Open https://miniapps.ai/gpt-6-astra\n2. Register a new account.\n3. Start chatting with GPT-6 Astra.\nقدرتمندترین مدل Open AI برای چت رایگان در دسترس است \nمراحل استفاده:\n1️⃣ وارد لینک زیر شوید:\nhttps://miniapps.ai/gpt-6-astra\n2️⃣ یک حساب کاربری جدید بسازید (ثبت‌نام کنید).\n3️⃣ چت با GPT-6 Astra را شروع کنید\n#هوش_مصنوعی #چت_رایگان #OpenAI #GPT6 #IDOLvpn\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "27910",
+      "date": "2026-10-01T07:40:07+00:00",
+      "link": "https://t.me/IDOLvpn/27910",
+      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a photo",
+      "hasPhoto": false
+    },
+    {
+      "id": "27909",
+      "date": "2026-10-01T07:40:03+00:00",
+      "link": "https://t.me/IDOLvpn/27909",
+      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned «🤖 دسترسی رایگان و بدون محدودیت به Claude Opus 5.5 Max! اگه دنبال تست یکی از قدرتمندترین مدل‌های هوش مصنوعی آنتروپیک هستید، این آموزش جالبه 👀   استفاده از پلتفرم ClickUp می‌تونید به Claude Opus 5.5 Max دسترسی پیدا کنید؛ بدون پرداخت هزینه و با دسترسی نامحدود.…»",
+      "hasPhoto": false
+    },
+    {
+      "id": "27908",
+      "date": "2026-10-01T07:38:54+00:00",
+      "link": "https://t.me/IDOLvpn/27908",
+      "text": "بصورت پیشفرض روی حالت max نیست و فقط مدیوم و لو در دسترسه ولی با آی پی لوکیشین هایی که گفته شد و ترفند قبل  باید بعد از اتمام ثبتنام   opus 5.5 و GPT 6  روی مکس باشه \nظاهرا یکی درمیون فول مکس میشه یعنی از پنج بار تست دو تا از اکانتها اینطوری شد اینم گوشه دهنتون داشته باشید اگه فعال نشد دوباره بسازید\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": true
     }
   ]
