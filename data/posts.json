@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-10-29T09:24:38.780Z",
+  "updated_at": "2026-10-30T09:38:52.880Z",
   "channel": "Idolvpn",
   "source": "https://t.me/s/Idolvpn",
   "posts": [
     {
-      "id": "29460",
-      "date": "2026-10-29T02:35:29+00:00",
-      "link": "https://t.me/IDOLvpn/29460",
-      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned «Automate V2Ray Config Collector    پایپ‌لاین خودکار جمع‌آوری، اعتبارسنجی و انتشار کانفیگ‌های V2Ray/Xray از منابع عمومی. این پروژه با Python 3.12 نوشته شده و از یک سیستم تست دو مرحله‌ای استفاده می‌کند: ابتدا فیلتر سریع TCP با ۱۰۰ worker همزمان، سپس تست واقعی…»",
+      "id": "29513",
+      "date": "2026-10-30T00:54:01+00:00",
+      "link": "https://t.me/IDOLvpn/29513",
+      "text": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt\nساب لینک پترنیها \n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "29459",
-      "date": "2026-10-29T02:35:25+00:00",
-      "link": "https://t.me/IDOLvpn/29459",
-      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned «ربات کانفیگ  رایگان کانال  @Idolvpn_robot وب سایت ما  https://idolvpn.github.io/  ابزار تست سرعت و نشت آیپی ما https://idolvpn.testplus.workers.dev‌ ابزار مخفی کردن کانفیگ در محتوای رسانه  https://idolvpn.github.io/hmm.html پروژه متن باز جمع آوری کانفیگ  …»",
+      "id": "29511",
+      "date": "2026-10-30T00:25:06+00:00",
+      "link": "https://t.me/IDOLvpn/29511",
+      "text": "📢بروز رسانی وی پی ان  fire fox vpn \nReleases · armanlife/firefox-vpn-client\n📌لینک گیت هاب پروژه : اندروید و ویندوز \n🔗https://github.com/armanlife/firefox-vpn-client/releases\n📌متصل رو همه اپراتورها \n📌پنجاه گیگ ماهانه \n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "29458",
-      "date": "2026-10-29T02:35:18+00:00",
-      "link": "https://t.me/IDOLvpn/29458",
-      "text": "Automate V2Ray Config Collector    پایپ‌لاین خودکار جمع‌آوری، اعتبارسنجی و انتشار کانفیگ‌های V2Ray/Xray از منابع عمومی. این پروژه با Python 3.12 نوشته شده و از یک سیستم تست دو مرحله‌ای استفاده می‌کند: ابتدا فیلتر سریع TCP با ۱۰۰ worker همزمان، سپس تست واقعی…",
-      "hasPhoto": false
-    },
-    {
-      "id": "29456",
-      "date": "2026-10-29T02:34:14+00:00",
-      "link": "https://t.me/IDOLvpn/29456",
-      "text": "Automate V2Ray Config Collector\nپایپ‌لاین خودکار جمع‌آوری، اعتبارسنجی و انتشار کانفیگ‌های V2Ray/Xray از منابع عمومی. این پروژه با Python 3.12 نوشته شده و از یک سیستم تست دو مرحله‌ای استفاده می‌کند: ابتدا فیلتر سریع TCP با ۱۰۰ worker همزمان، سپس تست واقعی با Xray-core که برای هر کانفیگ یک instance موقت اجرا کرده و از طریق SOCKS5 درخواست HTTP واقعی ارسال می‌کند. فقط کانفیگ‌هایی که latency آن‌ها زیر threshold باشد منتشر می‌شوند.\nخروجی‌ها هر ۲ ساعت از طریق GitHub Actions به‌روزرسانی شده و شامل فایل‌های جداگانه بر اساس پروتکل، کشور و نوع شبکه هستند. پروژه تحت مجوز MIT منتشر شده است.\n---\n🔗 لینک‌های Subscription\nاشتراک اصلی (MIX)\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix_sub.txt\nاشتراک Lite (حداکثر ۲۰۰ کانفیگ سریع)\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix_sub.txt\nلیست خام ترکیبی\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix.txt\n---\n📡 خروجی‌های پروتکل\nVLESS:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vless.txt\nVMess:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vmess.txt\nTrojan:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/trojan.txt\nShadowsocks: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/ss.txt\nReality:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/reality.txt\n---\n🌍 خروجی‌های کشوری\n🇩🇪 آلمان:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_DE.txt\n🇺🇸 آمریکا:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_US.txt\n🇳🇱 هلند:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_NL.txt\n🇹🇷 ترکیه:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_TR.txt\n🇮🇷 ایران:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_IR.txt\n---\n🌐 خروجی‌های Network\nWebSocket:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_ws.txt\ngRPC:        https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_grpc.txt\nTCP:         https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt\nH2:          https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_h2.txt\nHTTPUpgrade: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_httpupgrade.txt\nXHTTP:       https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_xhttp.txt\n---\n📊 آمار لحظه‌ای\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/stats.json\n---\n⚠️ نکات مهم\n- خطای 404 روی فایل‌های پروتکل/کشور طبیعی است — فایل فقط وقتی ساخته می‌شود که کانفیگ سالم از آن نوع وجود داشته باشد\n- فقط کشورهایی با حداقل ۳ کانفیگ سالم فایل می‌گیرند\n- لینک‌های\nmix_sub.txt\nو\nlite_mix_sub.txt\nرا مستقیماً در کلاینت‌هایی مثل v2rayNG، NekoBox یا Matsuri وارد کنید\n- کانفیگ‌ها هر ۲ ساعت به‌روزرسانی می‌شوند\n---\n⭐ اگر پروژه برای شما مفید بود، به آن Star بدهید: https://github.com/Idolvpn/Automate-V2ray-Config-Collector\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": false
-    },
-    {
-      "id": "29455",
-      "date": "2026-10-28T22:27:20+00:00",
-      "link": "https://t.me/IDOLvpn/29455",
+      "id": "29510",
+      "date": "2026-10-29T21:37:21+00:00",
+      "link": "https://t.me/IDOLvpn/29510",
       "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a video",
       "hasPhoto": false
     },
     {
-      "id": "29454",
-      "date": "2026-10-28T22:27:16+00:00",
-      "link": "https://t.me/IDOLvpn/29454",
-      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned «📢چند کلمه دوستانه در قالب هشدار از گروه @IDOLvpn 🚷از پیام رسان فعلا استفاده نکنید  تا سورس برنامه منتشر بشه... 🫵دوستانیکه از MlMvpn استفاده میکنید 📌نمیرزه برای چند روز آفلاین شدن تمام اکانت گوگل و امنیت اکانت خودتون رو به خطر بندازید  📌تا بعدا وقتی پروژه کامل…»",
+      "id": "29508",
+      "date": "2026-10-29T21:37:14+00:00",
+      "link": "https://t.me/IDOLvpn/29508",
+      "text": "🎥🛠️ ویدیوی آموزش ساخت کانفیگ رایگان V2Ray با پنل اختصاصی\n👇👇👇👇👇👇👇👇👇👇👇\n📢این آموزش هم مثل قبلی ها فقط برای یادگیری شما عزیزان قرار داده میشه و هر گونه مسئولیت رو از من و کانال ما سلب می‌کنه \nبا مسئولیت خودتون میتونید توکن کلادفلر تون رو بدید به نصب کننده 🫆\n🔗 لینک‌های موردنیاز:\n• 🛠️ پنل اختصاصی (لینک اول)\n• 🌐 پنل اختصاصی (لینک دوم)\n⚠️ پنل پشتیبان\n• 📧 ثبت‌نام در Atomic Mail\n• ☁️ ثبت‌نام در Cloudflare\n💬 اگر جایی از آموزش برات مبهم بود یا به مشکلی خوردی، توی گروه بپرس تا راهنماییت کنیم.\n  ⚠️نکته: در روش Pages به دلیل فیلتر بودن دامنه، حتماً باید از کانفیگ‌های فرگمنت شده استفاده بشه 📝\nاگه گوشی آیفون دارید، کلاینت‌های v2ray مثل Happ یا v2box رو نصب کنید 📱\nاگه روش Pages براتون کار نکرد، Worker رو تست کنید 🧪\nاحتمال بن شدن Pages و پریدن حساب کلودفلر خیلی کمتر از Worker هستش 🛡️\nبرای ساخت چندین حساب کلودفلر میتونین از روش نقطه گذاری بین ایمیل استفاده کنید\nلینک راهنما\n   تلگرام سازنده پنل WallWeb@📌\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "29452",
-      "date": "2026-10-28T22:25:23+00:00",
-      "link": "https://t.me/IDOLvpn/29452",
-      "text": "📢آموزش  نسخه جدید MLM vpn  📌از داخل برنامه اپدیت کنید با مسئولیت خودتون میتونید از گره استفاده کنید من شخصا خودم استفاده نخواهم کرد به خاطر چند روز آفلاین شدن نمیرزه اکانت گوگل به خطر بیفته و مطلب دیگه هم اینه که نمیتونم تا سورس برنامه رو چک نکردم ازش به عنوان…",
+      "id": "29506",
+      "date": "2026-10-29T21:21:45+00:00",
+      "link": "https://t.me/IDOLvpn/29506",
+      "text": "📢آخرین بروزرسانی پایدار msn vpn\n📌لینک گیت هاب پروژه 👇\n🔗https://github.com/mbm110/MSN-GUARD/releases/tag/v3.1.0\n📍شخصا با نت مخابرات و ایرانسل تست کردم برای اولین بار وقتی گزینه اتصال رو میزنید برنامه باید کلید بگیره و متصل بشه چند ثانیه طول می‌کشه جالبه رو مخابرات که هیچی درست کار نمیکنه هم رو پرتکل وایرگارد و هم ماسک متصل شد \nدوست داشتید تست کنید \n📌Release MSN-GUARD v3.1.0 · mbm110/MSN-GUARD\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "29449",
-      "date": "2026-10-28T21:34:59+00:00",
-      "link": "https://t.me/IDOLvpn/29449",
-      "text": "📢آموزش  نسخه جدید MLM vpn \n📌از داخل برنامه اپدیت کنید\nبا مسئولیت خودتون میتونید از گره استفاده کنید من شخصا خودم استفاده نخواهم کرد به خاطر چند روز آفلاین شدن نمیرزه اکانت گوگل به خطر بیفته و مطلب دیگه هم اینه که نمیتونم تا سورس برنامه رو چک نکردم ازش به عنوان پیام رسان استفاده کنم \nشما هم استفاده نکنید 🫆\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "29504",
+      "date": "2026-10-29T21:08:01+00:00",
+      "link": "https://t.me/IDOLvpn/29504",
+      "text": "🎬 Concat\n  \n📢جایگزین متن‌باز و رایگان CapCut برای اندروید، ویندوز، مک و لینوکس\n📍ویرایشگر ویدئوی کاملاً رایگان و متن‌باز که بدون واترمارک، بدون اشتراک اجباری و بدون نیاز به ساخت حساب کاربری کار می‌کند. همه پردازش‌ها به‌صورت محلی روی دستگاه انجام می‌شود.\n📌امکانات اصلی\n- زیرنویس خودکار: تشخیص گفتار و ساخت زیرنویس با مدل Whisper به‌صورت کاملاً محلی (آفلاین پس از دانلود مدل)\n- تبدیل متن به صدا: صداهای هوش مصنوعی محلی + امکان شبیه‌سازی صدا از روی نمونه صوتی کوتاه\n- حذف پس‌زمینه: جداسازی سوژه (شخص یا شیء) از پس‌زمینه با امکان اصلاح دستی ماسک\n- تدوین چندلایه: برش، ترکیب کلیپ‌ها، افزودن تصویر و متن، صداگذاری و تصویر در تصویر (Picture-in-Picture)\n- افکت و انیمیشن: حدود ۱۰۰ افکت، فیلتر و ترنزیشن + سیستم کی‌فریم برای متحرک‌سازی\n- بهبود صدا: کاهش نویز، واضح‌تر کردن گفتار، تنظیم بلندی صدا و افکت‌های صوتی\n- خروجی باکیفیت: پشتیبانی از H.264، HEVC و AV1 تا وضوح 4K و نرخ ۶۰ فریم بر ثانیه\n- حریم خصوصی: پردازش ۱۰۰٪ محلی؛ ویدئوها به سرور خارجی آپلود نمی‌شوند\n- قابلیت‌های پیشرفته: پشتیبانی از اتصال به عامل‌های هوش مصنوعی از طریق MCP و خودکارسازی با API\n- پلتفرم‌ها: اندروید، ویندوز، لینوکس و مک. نسخه iOS و iPadOS به‌صورت نصب جانبی (sideload) در دسترس است\n- رابط کاربری: پشتیبانی از ۲۶ زبان\nکاملاً رایگان و متن‌باز تحت مجوز AGPL-3.0. بدون واترمارک، بدون دیوار پرداخت و بدون الزام به ساخت حساب.\n⚠️ توجه: پروژه هنوز در مرحله بتا و در حال توسعه است. پایداری و عملکرد بعضی قابلیت‌ها ممکن است بسته به دستگاه و نسخه برنامه متفاوت باشد.\n- 🌐 وب‌سایت رسمی:\n🔗https://concat.standalones.org/  \n- 📥 دانلود نسخه‌ها:\n🔗https://github.com/jub0t/Concat/releases\n- 💻 کد منبع:\n🔗https://github.com/jub0t/Concat  \n📍نقل از کانال تلگرام vpn_proxy400\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "29502",
+      "date": "2026-10-29T20:55:28+00:00",
+      "link": "https://t.me/IDOLvpn/29502",
+      "text": "📢 دریافت اشتراک ۳ ماه هاست رایگان بدون کارت بانکی | اجرای ربات + سایت رایگان\n📌سایت گفته شده در آموزش 👇\n🔗https://botkeep.cloud/\nFree Hosting for Apps, Bots & Websites | Botkeep\n📍آموزش از کانال یوتوب alibodama \n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "29501",
+      "date": "2026-10-29T20:42:21+00:00",
+      "link": "https://t.me/IDOLvpn/29501",
+      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a video",
       "hasPhoto": false
     }
   ]
