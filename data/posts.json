@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-11-05T10:23:29.516Z",
+  "updated_at": "2026-11-06T10:25:27.534Z",
   "channel": "Idolvpn",
   "source": "https://t.me/s/Idolvpn",
   "posts": [
     {
-      "id": "29984",
-      "date": "2026-11-05T02:13:13+00:00",
-      "link": "https://t.me/IDOLvpn/29984",
-      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎:\nAutomate V2Ray Config Collector\nپایپ‌لاین خودکار جمع‌آوری، اعتبارسنجی و انتشار کانفیگ‌های V2Ray/Xray از منابع عمومی. این پروژه با Python 3.12 نوشته شده و از یک سیستم تست دو مرحله‌ای استفاده می‌کند: ابتدا فیلتر سریع TCP با ۱۰۰ worker همزمان، سپس تست واقعی با Xray-core که برای هر کانفیگ یک instance موقت اجرا کرده و از طریق SOCKS5 درخواست HTTP واقعی ارسال می‌کند. فقط کانفیگ‌هایی که latency آن‌ها زیر threshold باشد منتشر می‌شوند.\nخروجی‌ها هر ۲ ساعت از طریق GitHub Actions به‌روزرسانی شده و شامل فایل‌های جداگانه بر اساس پروتکل، کشور و نوع شبکه هستند. پروژه تحت مجوز MIT منتشر شده است.\n---\n🔗 لینک‌های Subscription\nاشتراک اصلی (MIX)\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix_sub.txt\nاشتراک Lite (حداکثر ۲۰۰ کانفیگ سریع)\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix_sub.txt\nلیست خام ترکیبی\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix.txt\n---\n📡 خروجی‌های پروتکل\nVLESS:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vless.txt\nVMess:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vmess.txt\nTrojan:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/trojan.txt\nShadowsocks: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/ss.txt\nReality:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/reality.txt\n---\n🌍 خروجی‌های کشوری\n🇩🇪 آلمان:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_DE.txt\n🇺🇸 آمریکا:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_US.txt\n🇳🇱 هلند:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_NL.txt\n🇹🇷 ترکیه:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_TR.txt\n🇮🇷 ایران:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_IR.txt\n---\n🌐 خروجی‌های Network\nWebSocket:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_ws.txt\ngRPC:        https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_grpc.txt\nTCP:         https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt\nH2:          https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_h2.txt\nHTTPUpgrade: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_httpupgrade.txt\nXHTTP:       https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_xhttp.txt\n---\n📊 آمار لحظه‌ای\nhttps://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/stats.json\n---\n⚠️ نکات مهم\n- خطای 404 روی فایل‌های پروتکل/کشور طبیعی است — فایل فقط وقتی ساخته می‌شود که کانفیگ سالم از آن نوع وجود داشته باشد\n- فقط کشورهایی با حداقل ۳ کانفیگ سالم فایل می‌گیرند\n- لینک‌های\nmix_sub.txt\nو\nlite_mix_sub.txt\nرا مستقیماً در کلاینت‌هایی مثل v2rayNG، NekoBox یا Matsuri وارد کنید\n- کانفیگ‌ها هر ۲ ساعت به‌روزرسانی می‌شوند\n---\n⭐ اگر پروژه برای شما مفید بود، به آن Star بدهید: https://github.com/Idolvpn/Automate-V2ray-Config-Collector\n@IDOLvpn\n@IDOLvpn_group\n@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ\nربات کانفیگ  رایگان کانال \n@Idolvpn_robot\nوب سایت ما \nhttps://idolvpn.github.io/ \nابزار تست سرعت و نشت آیپی ما\nhttps://idolvpn.testplus.workers.dev‌\nابزار مخفی کردن کانفیگ در محتوای رسانه \nhttps://idolvpn.github.io/hmm.html\nپروژه متن باز جمع آوری کانفیگ \nhttps://github.com/Idolvpn/Automate-V2ray-Config-Collector\nاسکن هوشمند دامنه و DNS\nhttps://idolvpn.github.io/irnet\nکانال تلگرام \n@IDOLvpn\nگروه گفتگو و پشتیبانی\n@IDOLvpn_group",
+      "id": "30057",
+      "date": "2026-11-06T10:18:07+00:00",
+      "link": "https://t.me/IDOLvpn/30057",
+      "text": "🎥 ساخت پروکسی تلگرام با Cloudflare؛ رایگان و بدون نیاز به VPS!\n🔥 دوست داری بدون خرید سرور و هزینه اضافی، یک Web Proxy برای تلگرام خودت راه‌اندازی کنی؟\n📍توی آموزش جدید موب آموز قراره با استفاده از Cloudflare Workers دو روش متفاوت برای ساخت و راه‌اندازی Web Proxy تلگرام رو یاد بگیریم.\n✨ مزایای این روش:\n⚡️ سرعت و دسترسی سریع\n🌐 استفاده از زیرساخت کلودفلر\n🔄 امکان دسترسی پایدار و همیشگی\n🛠 راه‌اندازی ساده و سریع\n💰 بدون نیاز به خرید VPS\n🔥 آموزش دو روش مختلف\n📍 آموزش از کانال یوتوب mobamoz\nلینک گیت هاب پروژه : \nhttps://github.com/Qorvhex/TWP/\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
     },
     {
-      "id": "29983",
-      "date": "2026-11-05T02:00:13+00:00",
-      "link": "https://t.me/IDOLvpn/29983",
+      "id": "30056",
+      "date": "2026-11-06T02:54:45+00:00",
+      "link": "https://t.me/IDOLvpn/30056",
+      "text": "اکانت کرک شده\nPia VPN\n➖➖➖➖➖➖➖➖➖➖➖\nuser:\np1713982\nPass:\nhnEHz3Lrvx\n🗓Exp: هشت روز\n➖➖➖➖➖➖➖➖➖\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "30054",
+      "date": "2026-11-06T00:18:56+00:00",
+      "link": "https://t.me/IDOLvpn/30054",
+      "text": "https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn\n🧬 با کایلا، کنترل اتصال خود را به دست بگیرید:\n🎭 پروفایل ClientHello اتصال خود را انتخاب کنید، یا تک‌تک جزئیات آن را خودتان ویرایش کنید.\n✂️ TLS Fragmentation با تنظیمات کامل در اختیار شما.\n🔐 ClientHello رمزگذاری‌شده (ECH) نام سرور را از دید کسانی که شبکه را زیر نظر دارند پنهان می‌کند. به صورت پیش‌فرض خودکار است.\n⭐ پیشنهادی آرگو وی‌پی‌ان تنظیماتی را به کار می‌گیرد که در حال حاضر در کشور شما بهتر جواب می‌دهد و بدون نیاز به بروزرسانی برنامه آن‌ها را به‌روز نگه می‌دارد.\n⏰ با تصحیح زمان دستگاه، حتی وقتی ساعت گوشی شما درست نیست هم متصل می‌شوید.\n🛡️ تیم فیلترشکن‌ها ویژگی‌هایی را برای شما آورده است که معمولاً در وی‌پی‌ان‌های تجاری پیدا می‌شود:\n🔥 فایروال داخلی: مسدود کردن وب‌سایت‌های مشخص هنگام اتصال به آرگو وی‌پی‌ان.\n🌩️ استفاده از DNS کلادفلر در حالت‌های Family و Malware برای محافظت بیشتر.\n🔧 مستثنی کردن آدرس‌ها و دامنه‌های مشخص، مانند سایت‌های دانلود رفع فیلتر، از تونل آرگو وی‌پی‌ان.\n🔧 ویژگی‌های بیشتر برای راحتی شما:\n🔑 سرور DNS، جلوگیری از نشت DNS و محافظ قطع اتصال: اگر ارتباط قطع شود، ترافیک شما به جای عبور بدون محافظت، نگه داشته می‌شود.\n📱 مستثنی کردن برنامه‌های مشخص از تونل آرگو وی‌پی‌ان.\n🔌 اتصال از طریق پراکسی HTTP، SOCKS5 یا Shadowsocks خودتان، از جمله Shadowsocks 2022.\n🚀 ما بر اساس بازخورد شما به افزودن ویژگی‌های بیشتر ادامه می‌دهیم!\n🔐 امنیت و حریم خصوصی در بالاترین سطح:\n🔒 رمزنگاری با AES-GCM-128 یا ChaCha20-Poly1305.\n📱 انتخاب خودکار رمز برای بهترین سرعت.\n🔑 کلید رمزنگاری یکتا برای هر اتصال با پروتکل Argo Authenticator.\n🙈 محافظ اسکرین‌شات، آدرس‌ها و تنظیمات شما را از دید برنامه‌های دیگر دور نگه می‌دارد.\n📍@ArgoVPNbot\n📍نقل از کانال https://t.me/Chanel_M_CH📌\n📍از داخل برنامه هم میتونید اقدام به گرفتن پل کنید\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "30052",
+      "date": "2026-11-05T23:51:08+00:00",
+      "link": "https://t.me/IDOLvpn/30052",
+      "text": "🎥 ساخت GIF متحرک با ChatGPT؛ فقط با یک پرامپت! 🤯\n🎞 حالا می‌تونی با نوشتن یک دستور یا آپلود عکس، اون رو به یک GIF متحرک و تکرارشونده تبدیل کنی! حتی نقاشی‌ها و طرح‌های دستی خودت رو هم می‌تونی به حرکت دربیاری. ✨\n🔥 مهم‌ترین قابلیت‌های جدید:\n• 🎞 ساخت GIF از متن یا تصویر\n• ✏️ متحرک‌سازی نقاشی‌ها و شخصیت‌ها\n• 🎬 کنترل سرعت و ویرایش فریم‌ها\n• 🎨 حفظ جزئیات شخصیت‌ها و محصولات در ویرایش‌های مختلف\n• ⚡️ تولید تصویر تا ۵۰٪ سریع‌تر از قبل\n📍 کجا در دسترسه؟\n📍قابلیت‌های جدید در حال عرضه برای ChatGPT و Codex در نسخه‌های وب، دسکتاپ و موبایل هستند. کاربران پلن رایگان هم امکان دسترسی دارند؛ البته ممکنه هنوز برای همه فعال نشده باشه.\n📌 دو مدل API برای توسعه‌دهندگان:\n📍 Flare: تولید سریع تصویر و ویرایش\n📍 Sunburst: کیفیت بالاتر، جزئیات بیشتر و ثبات در ویرایش‌ها\n💡 یک ایده برای امتحان کردن:\n📍از یک نقاشی ساده عکس بگیرید و از ChatGPT بخواهید آن را به GIF متحرک تبدیل کند!\n📍@AiNewTecاز کانال\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "30050",
+      "date": "2026-11-05T22:12:34+00:00",
+      "link": "https://t.me/IDOLvpn/30050",
+      "text": "📡 انتشار نسخه جدید نوا کلاینت (بیلد ۲۷۶)\n🔗دارای لینک سابزکریپشن رایگان داخلی\n📌در این نسخه، تمرکز اصلی ما روی زیبایی ظاهری و تجربه کاربری روان‌تر در محیط برنامه بوده است. \n✨ مهم‌ترین تغییرات این نسخه:\n🌍 طراحی جدید بخش انتخاب کشور: کادر انتخاب کشور در صفحه اصلی و لیست سرورها بزرگ‌تر و بسیار خواناتر شده است. حالا با اضافه شدن نمایش پرچم‌ها، قابلیت جست‌وجو و انتخاب مستقل برای هر پروفایل، کار با برنامه از همیشه راحت‌تر است!\n🛠 بهبودهای فنی و پایداری:\n🌐 ارتقای عملکرد پروتکل‌های MASQUE و HTTP/2 و بهبود مسیریابی گیت‌وی.\n🍏 بهبود چشمگیر بازیابی اتصال در دستگاه‌های iOS (پس از باز کردن قفل صفحه).\n📍 بهینه‌سازی لیست کشورهای سایفون، مدیریت اشتراک‌ها و فایل‌های خروجی.\n📡 اصلاح نتایج بخش Radar و عملکرد روان‌تر در فرآیندهای توقف، لغو و اتصال مجدد.\n⚠️ نکته بسیار مهم برای نصب:\nلطفاً برنامه قبلی را حذف (Uninstall) نکنید و دیتای آن را (Clear Data) پاک نکنید! فقط کافیست فایل نسخه جدید را روی همان نسخه فعلی نصب (Update) کنید تا تمام پروفایل‌ها و تنظیماتتان دست‌نخورده باقی بماند. 💾\n📥 لینک‌های دریافت:\n🤖🪟🐧 دانلود اندروید، ویندوز، مک و لینوکس (گیت‌هاب)\nhttps://github.com/IRNova/Nova-Client/releases/tag/v1.34.1-build276\n🍎 دانلود نسخه iOS (از طریق TestFlight)\nhttps://testflight.apple.com/join/DuvVZd7K\n 🚷فقط برای وب گردی استفاده شود \n📍 تیم توسعه نوا\n📍نقل از کانال sorenab1\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "hasPhoto": false
+    },
+    {
+      "id": "30049",
+      "date": "2026-11-05T21:50:14+00:00",
+      "link": "https://t.me/IDOLvpn/30049",
       "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a video",
       "hasPhoto": false
     },
     {
-      "id": "29981",
-      "date": "2026-11-05T01:59:40+00:00",
-      "link": "https://t.me/IDOLvpn/29981",
-      "text": "🚀 چطور در هوش مصنوعی Muse متعلق به شرکت Meta ثبت‌نام کنیم و از یک Personal AI Agent استفاده کنیم؟\nدر این ویدیو، قدم‌به‌قدم با Muse آشنا می‌شویم؛ یک ایجنت هوش مصنوعی شخصی از شرکت متا که فراتر از یک چت‌بات معمولی عمل می‌کند و می‌تواند با کمک ابزارها و اپلیکیشن‌های متصل، کارهای مختلف را برای شما انجام دهد.\nدر این آموزش یاد می‌گیری:\n✅ Muse چیست و چه تفاوتی با چت‌بات‌های معمولی دارد؟\n📍 چطور وارد وب‌سایت رسمی Muse شویم؟\n📍 چطور برای Muse حساب کاربری بسازیم؟\n📍 چطور حساب اینستاگرام خود را به Muse متصل کنیم؟\n✅ Muse چه قابلیت‌هایی برای مدیریت کارها، برنامه‌ریزی و اتوماسیون دارد؟\n🎁 کد دعوت Muse: \nاگر می‌خوای از کد دعوت من استفاده کنی، کد زیر را وارد کن:\n🔑 کد دعوت: VF2YDI\n🌐 وب‌سایت رسمی Muse:\nhttps://muse.ai​\n💡 نکته: دسترسی به Muse و امکان ثبت‌نام ممکن است با توجه به کشور، شرایط انتشار سرویس و سیاست‌های متا متفاوت باشد. در این ویدیو فرایند ثبت‌نام را با اتصال اینترنت آمریکا نمایش می‌دهم؛\n📍آموزش از کانال یوتوب NILAILabs\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "30047",
+      "date": "2026-11-05T21:49:33+00:00",
+      "link": "https://t.me/IDOLvpn/30047",
+      "text": "🔎 Findings:\n❌ Detection: 0\n⚠️ Suspicion: 0\n✅ Not detected: 65\n• File name: Batfox-VPN-1.0.0-Android-universal(v1) (1).apk\n• File format: Android\n• File size: 42.84 MB\n• First analysis: 2026-11-06 00:44:24\n• Last analysis: 2026-11-06 00:44:24\n• VirusTotal link",
       "hasPhoto": false
     },
     {
-      "id": "29979",
-      "date": "2026-11-04T18:31:08+00:00",
-      "link": "https://t.me/IDOLvpn/29979",
-      "text": "📡 ایجینت هوش مصنوعی بدون سانسور و رایگان!\n📽تو این ویدیو یک هوش مصنوعی و ایجنت کاملاً بدون سانسور و رایگان به اسم Venice AI رو معرفی می‌کنیم؛ ابزاری که بدون محدودیت‌های اخلاقی و افراطی بقیه مدل‌ها به هر درخواستی پاسخ میده و هیچ لاگ یا سابقه‌ای از مکالمات شما روی سرورهاش ذخیره نمی‌کنه. همچنین یاد می‌گیرید چطور بدون ثبت‌نام و به‌صورت نامحدود ازش استفاده کنید.\n🔗لینک بات برای گرفتن فایلها و لینکها \n🔌https://t.me/arkalabs_bot\n🎥آموزش از کانال یوتوب Arkalabs\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+      "id": "30045",
+      "date": "2026-11-05T21:49:24+00:00",
+      "link": "https://t.me/IDOLvpn/30045",
+      "text": "😱 بهترین فیلترشکن نامحدود پرسرعت اندروید\n🎥 آیپی ثابت + چند لوکیشن + رایگا\n📥فایل نصبی همراه با شات اسکن در وایروس توتال زیر همین پست \n📍آموزش از کانال یوتوب alibodama \n📡 سایت ایمیل فیک\n🔗https://smailpro.com\n📍 سایت تست آیپی \n🔗ipleak.net\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
       "hasPhoto": false
-    },
-    {
-      "id": "29978",
-      "date": "2026-11-04T17:09:45+00:00",
-      "link": "https://t.me/IDOLvpn/29978",
-      "text": "📌توسعه‌دهنده پنل bpb، نسخه‌‌ی آزمایشی BPB-VPN رو منتشر کرد :   یک اپلیکیشن اندرویدی اپن‌سورسه که چند روش مختلف اتصال و عبور از فیلترینگ رو در یک برنامه ترکیب کرده و بر پایه کلودفلره. برای لاگین، یک Api Token از اکانت کلودفلرتون بگیرید و وارد کنید.  🔸قابلیت‌ها…",
-      "hasPhoto": false
-    },
-    {
-      "id": "29976",
-      "date": "2026-11-04T16:43:27+00:00",
-      "link": "https://t.me/IDOLvpn/29976",
-      "text": "🖍️ یوتوب احتمالاً شبکه اجتماعی جدیدی به نام Tamba توسعه می‌دهد\n🔹 کدهای کشف شده در نسخه اندروید یوتوب نشان می‌دهد پروژه‌ای به نام «تامبا» با امکاناتی فراتر از یک سرویس ویدیویی درحال آماده‌سازی است. این پلتفرم با نشان‌ها و طراحی اختصاصی، به‌عنوان فضایی تعاملی و شبیه به اینستاگرام برای اشتراک‌گذاری پست‌ها و گفت‌وگو میان کاربران توصیف شده است.\n🔹 امکان ارسال پیام خصوصی، چت‌های گروهی، ثبت درخواست دنبال‌کردن و تماشای مستقیم ویدیوهای کوتاه در محیط گفتگو از مشخصات این سیستم است. هنوز مشخص نیست که این سرویس در قالب یک برنامه کاملاً مستقل ارائه می‌شود یا صرفاً بستر آزمایشی برای قابلیت‌های جدید خواهد بود.\n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": true
-    },
-    {
-      "id": "29974",
-      "date": "2026-11-04T16:29:32+00:00",
-      "link": "https://t.me/IDOLvpn/29974",
-      "text": "🆅︎🅿︎🅽︎ 🆃︎🅾︎ 🅶︎🅴︎🆃︎🅷︎🅴︎🆁︎ pinned a photo",
-      "hasPhoto": false
-    },
-    {
-      "id": "29973",
-      "date": "2026-11-04T16:29:27+00:00",
-      "link": "https://t.me/IDOLvpn/29973",
-      "text": "📌توسعه‌دهنده پنل bpb، نسخه‌‌ی آزمایشی BPB-VPN رو منتشر کرد :\n یک اپلیکیشن اندرویدی اپن‌سورسه که چند روش مختلف اتصال و عبور از فیلترینگ رو در یک برنامه ترکیب کرده و بر پایه کلودفلره. برای لاگین، یک Api Token از اکانت کلودفلرتون بگیرید و وارد کنید.\n🔸قابلیت‌ها :\nپشتیبانی از VLESS روی Cloudflare Workers، سرویس WARP، پروتکل MASQUE، سایفون و Tor، امکان اتصال زنجیره‌ای پروکسی‌ها و....\n🟢ورکر روی بعضی اپراتورها کار نمیکنه ولی من با پروتکل MASQUE اپ، به راحتی متصل شدم، پس سعی کنید همه پروتکل‌هاش رو یکبار تست کنید.\n🔗 دانلود نسخه اندروید از گیت‌هاب :\nhttps://github.com/bia-pain-bache/BPB-VPN/releases\n📍لینک داشبورد کلادفلر برای گرفتن توکن\n🔗https://dash.cloudflare.com/profile/api-tokens\n📍سورس کد پروژه \n🔗https://github.com/bia-pain-bache/BPB-VPN\n📍vpn_proxy400نقل از کانال \n📌@IDOLvpn\n📌@IDOLvpn_group\n📌@a_c_official\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲             \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
-      "hasPhoto": true
     }
   ]
 }
